@@ -47,7 +47,7 @@ MYSQL_PASSWORD=snipepass
 APP_KEY=base64:REPLACE_WITH_GENERATED_KEY
 APP_URL=http://localhost:8080
 TZ=America/Toronto
-
+```
 
 Generate a valid APP_KEY:
 
